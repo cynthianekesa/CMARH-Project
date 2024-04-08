@@ -11,7 +11,7 @@ System Project Proposal:https://docs.google.com/document/d/1m4029lRnSesZT-JCcHS6
 Software Requirement Systems(SRS) Document:https://docs.google.com/document/d/1lviu0N2PEVJYCQR_ZGtQCCleI7kF0chfnIgzyXBQKl4/edit?usp=sharing
 
 ## Testing
-* The user needs to clone the GitHub repo by putting ****
+* The user needs to clone the GitHub repo by putting: git clone **https://github.com/cynthianekesa/CMARH-Project.git**
 * Use the **index.html** file in each folder to load the specific page
 * The system is not hosted hence needs to be downloaded locally on your computer
 
