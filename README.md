@@ -1,5 +1,5 @@
 # CMARH-Project
-                   ![Green Line Branch Organic Nature Logo](https://github.com/cynthianekesa/CMARH-Project/assets/95686270/7002e45b-20cc-4d6f-9b99-45a7f3e1ddb8)
+![Green Line Branch Organic Nature Logo](https://github.com/cynthianekesa/CMARH-Project/assets/95686270/7002e45b-20cc-4d6f-9b99-45a7f3e1ddb8)
 The purpose of this project is to provide a specialized system that empowers organizations across the continent to map out and communicate their climate-related initiatives. This platform, tailored to the unique challenges and opportunities in Africa, will serve as a catalyst for collaborative climate and conservation action, easier research, and climate mitigation tracking. Additionally, the platform will feature a waste analysis tool, supporting recycling and waste management companies to optimize their operations and contribute to sustainable practices within the African context
 
 #### Tri-Semester Project
