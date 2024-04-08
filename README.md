@@ -15,13 +15,17 @@ Software Requirement Systems(SRS) Document:https://docs.google.com/document/d/1l
 ## Testing
 * The user needs to clone the GitHub repo by putting: git clone **https://github.com/cynthianekesa/CMARH-Project.git**
 * Use the **index.html** file in each folder to load the specific page
-* The system is not hosted hence needs to be downloaded locally on your computer
+* The system is not hosted hence needs to be locally available on the computer to view pages
 
 ## Install Dependencies
 * No dependencies are needed; just vs code is enough
 
 ## Demo Video of the App
-****
+Demo 1
+**https://www.loom.com/share/ccef85a8454e4394880fb7e8d4607077?sid=dd5714b9-5a90-4b5f-b0b2-a2381f86a011**
+
+Demo 2
+**https://www.loom.com/share/2c06208a6b404e6fa54834961fb749ea?sid=702a9977-211c-4160-8f9a-088e8ff24752**
 
 ## Contributing
 Make a pull request before any changes.
